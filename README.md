@@ -4,6 +4,7 @@
 A basic webpage, just a revision of react and css. 
 
 
+ 
 ## Screenshots
 
 ![App Screenshot](https://i.postimg.cc/LsQ44RPm/101.jpg)
@@ -15,9 +16,12 @@ A basic webpage, just a revision of react and css.
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
+
 ## Tech Stack
 
 **Client:** React, CSS
+
+
 
 
 ## Installation
